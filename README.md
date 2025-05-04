@@ -1,6 +1,8 @@
 # Collision Simulator
 
-A Java-based physics collision simulator that demonstrates elastic collisions between different geometric shapes with real-time visualization and interactive controls.  
+A Java-based physics collision simulator that demonstrates elastic collisions between different geometric shapes with real-time visualisation and interactive controls.  
+
+![Collision Simulator Interface](resources/images/main-interface.png)
 
 ## Features
 
