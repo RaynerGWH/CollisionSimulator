@@ -3,12 +3,12 @@ package constants;
 public class Constants {
 
     // Window dimensions
-    public static final int WINDOW_WIDTH = 1200;
-    public static final int WINDOW_HEIGHT = 800;
+    public static final int WINDOW_WIDTH = 1000;
+    public static final int WINDOW_HEIGHT = 600;
     
     // Simulation area dimensions
-    public static final int SIMULATION_WIDTH = 800;
-    public static final int SIMULATION_HEIGHT = 600;
+    public static final int SIMULATION_WIDTH = 600;
+    public static final int SIMULATION_HEIGHT = 400;
     
     // Control panel dimensions
     public static final int CONTROL_PANEL_WIDTH = 300;
